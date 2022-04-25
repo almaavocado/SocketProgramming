@@ -1,8 +1,8 @@
 # SocketProgramming
 
 
-## “Instructions for Users”
-# Running the Server
+# “Instructions for Users”
+### Running the Server
 
 
 1. Open a command prompt terminal and find directory. 
